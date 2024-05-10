@@ -6,6 +6,7 @@ export default {
       fontFamily: {
         generalRegular: ["GeneralSansRegular"],
         generalMedium: ["GeneralSansMedium"],
+        poppins: ["Poppins", "sans-serif"],
       },
     },
   },
